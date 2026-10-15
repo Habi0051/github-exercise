@@ -101,3 +101,11 @@ main {
 .weather-card p i {
   margin-inline-end: 1rem;
 }
+section{
+ margin-left: 2rem;
+ display: flex;
+ padding-bottom: 6rem;
+}
+section > dl {
+  padding: 1rem;
+}
